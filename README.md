@@ -97,7 +97,7 @@ Content-Type: application/json
 
 ```json
 {
-  "name": "Updated Laptop",
+  "name": "Smartphone",
   "price": 1500
 }
 ```
@@ -142,6 +142,6 @@ Feel free to use, modify, and distribute it.
 
 For any questions, feel free to contact me:
 
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `eng.elhussien.salah@gmail.com`
 - 🔗 GitHub: [elhussein-salah](https://github.com/elhussein-salah)
 ---
