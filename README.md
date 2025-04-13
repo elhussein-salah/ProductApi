@@ -1,6 +1,6 @@
 # 🛒 Product API - ASP.NET Core
 
-This is a simple **CRUD API for managing products** built with **ASP.NET Core 7** and **Entity Framework Core** (EF Core).
+This is a simple **CRUD API for managing products** built with **ASP.NET Core 8** and **Entity Framework Core** (EF Core).
 
 ## 🚀 Features
 
